@@ -1,9 +1,8 @@
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Virtual |
 | Officiële naam regeling   | Algemene Plaatselijke Verordening Virtual 2025 |
 | Citeertitel               | Algemene Plaatselijke Verordening Virtual|
-| Vastgesteld door          | De Hoge Raad|
+| Vastgesteld door          | Hoofd Management |
 | Onderwerp                 | Openbare orde en veiligheid|
 
 ## Algemene Bepalingen
