@@ -1,82 +1,51 @@
-<!DOCTYPE html>
-<html lang="nl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Algemene Plaatselijke Verordening Virtual</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Algemene Plaatselijke Verordening Virtual 2025</h1>
-        <table>
-            <tr>
-                <th>Officiële naam regeling</th>
-                <td>Algemene Plaatselijke Verordening Virtual 2025</td>
-            </tr>
-            <tr>
-                <th>Citeertitel</th>
-                <td>Algemene Plaatselijke Verordening Virtual</td>
-            </tr>
-            <tr>
-                <th>Vastgesteld door</th>
-                <td>Hoofd Management</td>
-            </tr>
-            <tr>
-                <th>Onderwerp</th>
-                <td>Openbare orde en veiligheid</td>
-            </tr>
-        </table>
-    </header>
-    <section>
-        <h2>Algemene Bepalingen</h2>
-        <article>
-            <h3>A1 - Reikwijdte</h3>
-            <p>1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Virtual.</p>
-            <p>2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.</p>
-        </article>
-        <article>
-            <h3>A2 - Geldigheid</h3>
-            <p>1. Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte meest gunstigste bepalingen toegepast.</p>
-            <p>2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier wordt afgehandeld.</p>
-            <p>3. Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.</p>
-        </article>
-        <article>
-            <h3>A3 - Strafbepaling</h3>
-            <p>1. De straffen zijn onderverdeeld in zeven categorieën:</p>
-            <ul>
-                <li>Categorie 1: een waarschuwing + 20 uur taakstraf (max 3 waarschuwingen, hierna volgt automatisch oplegging cat. 2)</li>
-                <li>Categorie 2: een ban van maximaal 1 dag</li>
-                <li>Categorie 3: een ban van maximaal 2 dagen</li>
-                <li>Categorie 4: een ban van maximaal 3 dagen</li>
-                <li>Categorie 5: een ban van maximaal 1 week</li>
-                <li>Categorie 6: een ban van maximaal 1 maand</li>
-                <li>Categorie 7: permanente ban</li>
-                <li>Categorie 8: account wipe</li>
-            </ul>
-            <p>2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen de Hoge Raad.</p>
-            <p>3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie.</p>
-            <p>4. Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen.</p>
-            <p>5. Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.</p>
-            <p>6. Het omzeilen van een straf zal resulteren in een straf volgens categorie 7.</p>
-            <p>7. Bans worden uitgedeeld op basis van de GTA licentie en geldt als zodanig voor alle gebruikers van deze licentie.</p>
-        </article>
-        <article>
-            <h3>A4 - Aanvullende Wetten en regels</h3>
-            <p>1. Aanvullend op de APV is er het Wetboek Virtual (WVL), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Virtual.</p>
-            <ul>
-                <li>In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.</li>
-            </ul>
-            <p>2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.</p>
-            <ul>
-                <li>Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WNL. Dan is deze leidend.</li>
-            </ul>
-            <p>3. Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.</p>
-        </article>
-        <!-- Voeg meer artikelen toe zoals hierboven -->
-    </section>
-</body>
-</html>
+| | |
+|---|---|
+| Officiële naam regeling   | Algemene Plaatselijke Verordening Virtual 2025 |
+| Citeertitel               | Algemene Plaatselijke Verordening Virtual|
+| Vastgesteld door          | Hoofd Management |
+| Onderwerp                 | Openbare orde en veiligheid|
+
+## Algemene Bepalingen
+
+### A1 - Reikwijdte
+
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Virtual.
+2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+
+### A2 - Geldigheid
+
+1. Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte meest gunstigste bepalingen toegepast.
+2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
+3. Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
+
+### A3 - Strafbepaling
+
+1. De straffen zijn onderverdeeld in zeven categorieën:
+    * Categorie 1: een waarschuwing + 20 uur taakstraf
+        * (max 3 waarschuwingen, hierna volgt automatisch oplegging cat. 2)
+    * Categorie 2: een ban van maximaal 1 dag
+    * Categorie 3: een ban van maximaal 2 dag
+    * Categorie 4: een ban van maximaal 3 dagen
+    * Categorie 5: een ban van maximaal 1 week
+    * Categorie 6: een ban van maximaal 1 maand
+    * Categorie 7: permanente ban
+    * Categorie 8: account wipe
+
+2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen de Hoge Raad en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
+
+3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
+4. Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
+5. Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
+6. Het omzeilen van een straf zal resulteren in een straf volgens categorie 7
+7. Bans worden uitgedeeld op basis van de GTA licentie en geldt als zodanig voor alle gebruikers van deze licentie.
+
+### A4 - Aanvullende Wetten en regels
+
+1. Aanvullend op de APV is er het Wetboek Virtual (WVL), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Virtual.
+   * In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
+2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
+   * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WNL. Dan is deze leidend.
+3. Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
 
 ## Overtredingen - Verstoring openbare orde (RP)
 
